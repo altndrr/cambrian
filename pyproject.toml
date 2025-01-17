@@ -30,7 +30,7 @@ dependencies = [
     "uvicorn",
     "fastapi",
     "einops>=0,<1",
-    "einops-exts>=0,1",
+    "einops-exts>=0,<1",
     "timm>=0,<1",
     "open_clip_torch",
     "diffusers[torch]",
